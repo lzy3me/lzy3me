@@ -25,11 +25,11 @@
 <h3>📂 &nbsp; Projects</h3>
 <div align="center">
 
-[![report-builder](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=report-builder)](https://github.com/lzy3me/report-builder)
-[![task-core-api](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=task-core-api)](https://github.com/lzy3me/task-core-api)
+[![report-builder](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=report-builder&description_lines_count=1)](https://github.com/lzy3me/report-builder)
+[![task-core-api](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=task-core-api&description_lines_count=1)](https://github.com/lzy3me/task-core-api)
 
-[![add-or-remove](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=add-or-remove)](https://github.com/lzy3me/add-or-remove)
-[![theater-redux](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=theater-redux)](https://github.com/lzy3me/theater-redux)
+[![add-or-remove](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=add-or-remove&description_lines_count=1)](https://github.com/lzy3me/add-or-remove)
+[![theater-redux](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=theater-redux&description_lines_count=1)](https://github.com/lzy3me/theater-redux)
 
 </div>
 

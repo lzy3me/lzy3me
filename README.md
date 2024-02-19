@@ -29,7 +29,7 @@
 [![task-core-api](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=task-core-api)](https://github.com/lzy3me/task-core-api)
 
 [![add-or-remove](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=add-or-remove)](https://github.com/lzy3me/add-or-remove)
-
+[![theater-redux](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=theater-redux)](https://github.com/lzy3me/theater-redux)
 
 </div>
 

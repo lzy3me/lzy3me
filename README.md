@@ -31,6 +31,10 @@
 [![add-or-remove](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=add-or-remove&description_lines_count=1)](https://github.com/lzy3me/add-or-remove)
 [![theater-redux](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=theater-redux&description_lines_count=1)](https://github.com/lzy3me/theater-redux)
 
+__DevOps projects__
+
+[![deploy_docker](https://github-readme-stats.vercel.app/api/gist?id=ca85e7214bdc45bcf150bc6f569fb382&description_lines_count=1)](https://gist.github.com/lzy3me/ca85e7214bdc45bcf150bc6f569fb382)
+
 </div>
 
 <h3>🤝🏻 &nbsp; Connect with Me</h3>

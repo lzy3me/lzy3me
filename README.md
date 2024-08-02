@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 &nbsp; About Me</h3>
 <img align="right" alt="LANG" src="https://lh3.googleusercontent.com/a/ACg8ocINEANPAqSVaM6m37Zq3hSNzBXgSOYS6UdOrb7X_qLuXg=s288-c-no" width="175"/>
 
-- 🔭 &nbsp; I'm currently learning Go Backend Development and Spring Framework
+- 🔭 &nbsp; I'm currently learning Go Backend Development
 - 🤔 &nbsp; Always learning and making use of new technologies with stability in mind.
 - 🎓 &nbsp; Graduated from Dhonburi Rajabhat University with BSc in Computer Science.
 - 💼 &nbsp; Full-Stack Engineer and System Analysis.
@@ -15,7 +15,7 @@
 <h3>🛠 &nbsp; Tech Stack</h3>
 <img align="right" alt="LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzy3me&layout=compact"/>
 
-- 💻 &nbsp; TypeScript | Java | Go | C++ | PHP
+- 💻 &nbsp; TypeScript | Java | Go | C++ (Arduino)
 - 🌐 &nbsp; Next.js | HTML | CSS | Bootstrap | Tailwind
 - 🔙 &nbsp; Nest.js | Node.js | J2EE | Spring | Fiber
 - 🛢 &nbsp; PostgreSQL | SQL Server | MySQL | MongoDB

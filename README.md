@@ -1,6 +1,6 @@
 <h2><a href="https://youtu.be/rEq1Z0bjdwc" target="_blank">Hello there</a>, I'm F1uke Jessada</h2>
 
-[click here to download my CV](https://docs.google.com/document/u/0/export?format=pdf&id=1UjxVVQgBxFVVUiLj61ZBiDakX4OytJm5L5r0MKEDhco&token=AC4w5VgOMy_ZeIctc-9HjGDc_1FkDS4cNg%3A1704900644345&ouid=101211528967964746187&includes_info_params=true&usp=docs_home&cros_files=false&inspectorResult=%7B%22pc%22%3A2%2C%22lplc%22%3A31%7D)
+[click here to download my CV](https://docs.google.com/document/u/0/export?format=pdf&id=11EFGDDa-cO9DNOvqLdwPdm1iTv_SHz9vAkBEL9-mQuM&token=AC4w5Vi2I0y_Fpt8R5Tb2RPpoGOmVpLW-Q:1727007743758&ouid=117416985708759544618&includes_info_params=true&usp=docs_home&cros_files=false)
 
 <h3>👨🏻‍💻 &nbsp; About Me</h3>
 <img align="right" alt="LANG" src="https://lh3.googleusercontent.com/a/ACg8ocINEANPAqSVaM6m37Zq3hSNzBXgSOYS6UdOrb7X_qLuXg=s288-c-no" width="175"/>

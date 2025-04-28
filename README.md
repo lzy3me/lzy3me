@@ -15,12 +15,12 @@
 <h3>🛠 &nbsp; Tech Stack</h3>
 <img align="right" alt="LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzy3me&layout=compact"/>
 
-- 💻 &nbsp; TypeScript | Java | Go | C++ (Arduino)
+- 💻 &nbsp; TypeScript | JavaScript | Java | Go | C++ (Arduino)
 - 🌐 &nbsp; Next.js | HTML | CSS | Bootstrap | Tailwind
-- 🔙 &nbsp; Nest.js | Node.js | J2EE | Spring | Fiber
+- 🔙 &nbsp; Express.js | Nest.js | Node.js | Spring | Fiber
 - 🛢 &nbsp; PostgreSQL | SQL Server | MySQL | MongoDB
-- ⚙️ &nbsp; Git | Github | Gitlab
-- 🚢 &nbsp; Docker | Linux | Nginx
+- ☁️ &nbsp; AWS | Akamai Linode
+- 🚢 &nbsp; Docker | Linux | Nginx | K8S
 
 <h3>📂 &nbsp; Projects</h3>
 <div align="center">

@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Graduated from Dhonburi Rajabhat University with BSc in Computer Science.
 - 💼 &nbsp; Full-Stack Engineer and System Analysis.
 - 🌱 &nbsp; Enthusiast in Cloud Architecture, Systems Design and User Experience Design.
-- ✍️ &nbsp; Making a DIY project with embedded system as hobbies/side hustles.
+- ✍️ &nbsp; Build up Gunpla fleet 😸 and Tinkering with electronic as a hobby
 
 <h3>🛠 &nbsp; Tech Stack</h3>
 <img align="right" alt="LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzy3me&layout=compact"/>

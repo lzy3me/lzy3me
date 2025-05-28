@@ -13,7 +13,7 @@
 - ✍️ &nbsp; Build up Gunpla fleet 😸 and Tinkering with electronic as a hobby
 
 <h3>🛠 &nbsp; Tech Stack</h3>
-<img align="right" alt="LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzy3me&layout=compact"/>
+<!-- <img align="right" alt="LANG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzy3me&layout=compact"/> -->
 
 - 💻 &nbsp; TypeScript | JavaScript | Java | Go | C++ (Arduino)
 - 🌐 &nbsp; Next.js | HTML | CSS | Bootstrap | Tailwind

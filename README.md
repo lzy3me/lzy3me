@@ -22,7 +22,7 @@
 - ☁️ &nbsp; AWS | Akamai Linode
 - 🚢 &nbsp; Docker | Linux | Nginx | K8S
 
-<h3>📂 &nbsp; Projects</h3>
+<h3 align="center">📂 &nbsp; Projects</h3>
 <div align="center">
 
 [![report-builder](https://github-readme-stats.vercel.app/api/pin/?username=lzy3me&repo=report-builder&description_lines_count=1)](https://github.com/lzy3me/report-builder)
@@ -37,7 +37,7 @@ __DevOps projects__
 
 </div>
 
-<h3>🤝🏻 &nbsp; Connect with Me</h3>
+<h3 align="center">🤝🏻 &nbsp; Connect with Me</h3>
 <div align="center">
 
   [✉️: fluke.jessada.s@gmail.com](mailto:fluke.jessada.s@gmail.com)
